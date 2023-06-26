@@ -2,7 +2,7 @@
 //  AppDelegate.swift
 //  hw3
 //
-//  Created by Arina Goncharova on 26.06.2023.
+//  Created by Arina Goncharova on 20.06.2023.
 //
 
 import UIKit
